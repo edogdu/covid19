@@ -7,3 +7,4 @@ https://github.com/echen102/COVID-19-TweetIDs
 ## References
 
 - Gencoglu, O., & Gruber, M. (2020). <a href="https://arxiv.org/pdf/2005.07952.pdf">Causal Modeling of Twitter Activity During COVID-19</a>. arXiv preprint arXiv:2005.07952. 
+- COVID-19 Analytics by Novi Systems: https://novi.systems/covid-19/
