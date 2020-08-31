@@ -17,5 +17,6 @@ https://github.com/echen102/COVID-19-TweetIDs
 
 ## Tools
 
+- [GeoNames.org](http://www.geonames.org/export/web-services.html)
 - [Location information](https://geocoder.readthedocs.io/providers/GeoNames.html)
 
