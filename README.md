@@ -15,3 +15,7 @@ https://github.com/echen102/COVID-19-TweetIDs
 
 - Data Science and Cognitive Computing Courses https://cognitiveclass.ai
 
+## Tools
+
+- [Location information](https://geocoder.readthedocs.io/providers/GeoNames.html)
+
